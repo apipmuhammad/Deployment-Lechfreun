@@ -3,5 +3,4 @@ pandas
 joblib
 scikit-learn
 tensorflow
-numpy
 streamlit-option-menu == 0.3.2 
